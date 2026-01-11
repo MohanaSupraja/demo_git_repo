@@ -1,3 +1,3 @@
 function suppu(){
-    console.log("This is new.js");  
+    console.log("This is my new.js");  
 }
